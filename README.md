@@ -1,1 +1,1 @@
-# SolidDesignPrincipleProgram
+# solid-principles-example
